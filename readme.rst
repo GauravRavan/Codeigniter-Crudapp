@@ -1,71 +1,18 @@
-###################
-What is CodeIgniter
-###################
+# CodeIgniter CRUD Application
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+This is a simple CRUD (Create, Read, Update, Delete) application built with CodeIgniter, a popular PHP framework.
 
-*******************
-Release Information
-*******************
+## Features
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+- Create, Read, Update, and Delete records in a database.
+- User-friendly web interface.
+- Data validation and error handling.
+- List and detail views for records.
+- Responsive and customizable.
+- Search feature using jquery
 
-**************************
-Changelog and New Features
-**************************
+![Screenshot (26)](https://github.com/GauravRavan/Codeigniter-Crudapp/assets/118911175/c38f59dd-0619-4298-8e5f-603e4bd618a6)
+![Screenshot (27)](https://github.com/GauravRavan/Codeigniter-Crudapp/assets/118911175/ea8ad890-2361-4572-8595-dbeedf414ee5)
+![Screenshot (28)](https://github.com/GauravRavan/Codeigniter-Crudapp/assets/118911175/fbf72a32-f235-41f2-b929-bb8103b2a179)
+![Screenshot (29)](https://github.com/GauravRavan/Codeigniter-Crudapp/assets/118911175/f6faa927-d2b7-4057-9181-7f3e89e69d55)
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
