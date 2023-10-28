@@ -11,6 +11,6 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Code
 - Responsive and customizable.
 - Search feature using jquery
 
-![Screenshot (26)](https://github.com/GauravRavan/Codeigniter-Crudapp/assets/118911175/c38f59dd-0619-4298-8e5f-603e4bd618a6)
+![Screenshot (26)](https://github.com/GauravRavan/Codeigniter-Crudapp/assets/118911175/33dfba3f-3d60-4318-be7b-5006b1874736)
 
 
